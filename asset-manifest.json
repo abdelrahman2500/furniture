@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/furniture/static/css/main.67ebabe4.chunk.css",
+    "main.js": "/furniture/static/js/main.1e9364fb.chunk.js",
+    "main.js.map": "/furniture/static/js/main.1e9364fb.chunk.js.map",
+    "runtime-main.js": "/furniture/static/js/runtime-main.aaf89334.js",
+    "runtime-main.js.map": "/furniture/static/js/runtime-main.aaf89334.js.map",
+    "static/css/2.a44c59e0.chunk.css": "/furniture/static/css/2.a44c59e0.chunk.css",
+    "static/js/2.d4b93c81.chunk.js": "/furniture/static/js/2.d4b93c81.chunk.js",
+    "static/js/2.d4b93c81.chunk.js.map": "/furniture/static/js/2.d4b93c81.chunk.js.map",
+    "static/js/3.aa5d89d4.chunk.js": "/furniture/static/js/3.aa5d89d4.chunk.js",
+    "static/js/3.aa5d89d4.chunk.js.map": "/furniture/static/js/3.aa5d89d4.chunk.js.map",
+    "index.html": "/furniture/index.html",
+    "static/css/2.a44c59e0.chunk.css.map": "/furniture/static/css/2.a44c59e0.chunk.css.map",
+    "static/css/main.67ebabe4.chunk.css.map": "/furniture/static/css/main.67ebabe4.chunk.css.map",
+    "static/js/2.d4b93c81.chunk.js.LICENSE.txt": "/furniture/static/js/2.d4b93c81.chunk.js.LICENSE.txt",
+    "static/media/01.9192d043.png": "/furniture/static/media/01.9192d043.png",
+    "static/media/01.b4de3d70.jpg": "/furniture/static/media/01.b4de3d70.jpg",
+    "static/media/01.d1daf91c.jpg": "/furniture/static/media/01.d1daf91c.jpg",
+    "static/media/02.b60c7ff0.jpg": "/furniture/static/media/02.b60c7ff0.jpg",
+    "static/media/02.cdd4a3e1.jpg": "/furniture/static/media/02.cdd4a3e1.jpg",
+    "static/media/03.45967fb8.jpg": "/furniture/static/media/03.45967fb8.jpg",
+    "static/media/03.b1f48cfe.jpg": "/furniture/static/media/03.b1f48cfe.jpg",
+    "static/media/04.acc40367.jpg": "/furniture/static/media/04.acc40367.jpg",
+    "static/media/offer.13722337.png": "/furniture/static/media/offer.13722337.png",
+    "static/media/slider-2.4df86523.jpg": "/furniture/static/media/slider-2.4df86523.jpg",
+    "static/media/slider-3.051c317f.jpg": "/furniture/static/media/slider-3.051c317f.jpg",
+    "static/media/slider-4.b0ae417c.jpg": "/furniture/static/media/slider-4.b0ae417c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf89334.js",
+    "static/css/2.a44c59e0.chunk.css",
+    "static/js/2.d4b93c81.chunk.js",
+    "static/css/main.67ebabe4.chunk.css",
+    "static/js/main.1e9364fb.chunk.js"
+  ]
+}
